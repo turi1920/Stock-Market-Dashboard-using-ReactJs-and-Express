@@ -1,0 +1,31 @@
+.dashboard-container {
+    background-image: url("https://your-image-url.com/background.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+  }
+  
+  h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    color: blue;
+  }
+  
+  .table {
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  thead th {
+    font-size: 1.2rem;
+  }
+  
+  tbody td {
+    font-size: 1rem;
+  }
+  .dashboard-title {
+    font-family: 'Roboto', sans-serif;
+    color: blue;
+  }
+  
